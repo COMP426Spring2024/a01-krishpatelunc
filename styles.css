@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #7bd8d4;
+}
+
+.title-h1 {
+    font-family: "Al Bayan";
+    font-size: 40px;
+}
+
+.header-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.header-div button {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background: #f1ecba;
+}
+
+.header-div button:hover {
+    background: #d83656;
+}
+
+.loch-img {
+    width: 100%;
+}
+
+.citation {
+    font-size: 20px;
+    color: #000000;
+}
+
+.text-section {
+    padding: 0.5rem 1rem;
+
+}
+
+.title-h2 {
+    margin-top: 1rem;
+    font-size: 34px;
+}
+
+.main-text {
+    margin-top: 1rem;
+    font-size: 27px;
+    margin-bottom: 0.5rem;
+}
+
+ul {
+    font-size: 26px;
+    padding-bottom: 1rem;
+}
+
+#surgeon-img {
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+#select-believe {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+    width: 80px;
+}
+
+table {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 3px solid #000000;
+}
+
+th {
+    font-size: 25px;
+}
+
+td {
+    padding: 7px;
+    font-size: 23px;
+    border: 3px solid #000000;
+}
+
+#sightings-table {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+#castle-img {
+    padding-bottom: 2rem;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 20px;
+
+    background: #1b134b;
+    width: 100%;
+    min-height: 100px;
+
+    font-size: 30px;
+    color: #81c9c4;
+}
+
